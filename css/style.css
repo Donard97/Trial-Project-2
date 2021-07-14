@@ -1,70 +1,70 @@
 body {
     font-family: sans-serif;
     font-weight: 400;
-  }
-  
-  .justify-content-end {
+}
+
+.justify-content-end {
     font-size: 25px;
     background-color: #be3144;
     height: 80px;
-  }
-  
-  .justify-content-end li {
+}
+
+.justify-content-end li {
     margin-top: 10px;
     margin-right: 40px;
     color: black;
     font-size: 26px;
-  }
-  
-  .justify-content-end li a {
+}
+
+.justify-content-end li a {
     color: white;
-  }
-  
-  .section-1 {
+}
+
+.section-1 {
     background-color: #262729;
     height: 500px;
-  }
-  
-  .section-1 .content1 {
+}
+
+.section-1 .content1 {
     text-align: center;
     padding: 180px;
-  }
-  
-  .section-2 {
+}
+
+.section-2 {
     background-color: #45567d;
     height: 1000px;
-  }
-  
-  .section-2 h3 {
+}
+
+.section-2 h3 {
     color: white;
     text-align: center;
     text-decoration: underline;
     padding: 50px;
-  }
-  
-  .section-2 .row {
+}
+
+.section-2 .row {
     margin: 0 300px;
-  }
-  
-  .section-2 .row .col {
+}
+
+.section-2 .row .col {
     text-align: center;
-  }
-  
-  .section-2 .row .col .card {
+}
+
+.section-2 .row .col .card {
     height: 323px;
     border: none;
-  }
-  
-  .section-2 .row .col .card img {
+}
+
+.section-2 .row .col .card img {
     height: 265px;
-  }
-  
-  .section-2 .row .col .card .card-body {
+}
+
+.section-2 .row .col .card .card-body {
     background-color: #303841;
     color: white;
-  }
-  
-  .section-2 .row .btn {
+}
+
+.section-2 .row .btn {
     text-align: center;
     margin-left: 411px;
     margin-top: 50px;
@@ -73,20 +73,19 @@ body {
     border: none;
     outline: none;
     width: 107px;
-  }
-  
-  .section-3 {
+}
+
+.section-3 {
     background-color: #262729;
     color: white;
     text-align: center;
     padding: 90px 90px;
-  }
-  
-  #h1-1 {
+}
+
+#h1-1 {
     color: white;
-  }
-  
-  #h4-1 {
+}
+
+#h4-1 {
     color: #b03042;
-  }
-  
+}
